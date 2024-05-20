@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RanjithGan
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning Angular js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Bigdata, AI , LLAMA2
+- 🌱 I’m currently learning PC build
+- 💞️ I’m looking to collaborate on LLAMA2
 - 📫 How to reach me . simple, just email me
  At ranjithg26@gmail.com.
 
